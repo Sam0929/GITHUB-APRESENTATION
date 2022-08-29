@@ -9,7 +9,7 @@
   </p>
   
   
-  ## Projeto GitHub
+## Projeto GitHub
 
 * ## 📁 [Apresentação GitHub]
 * Projeto Git vetor com 1000 entradas

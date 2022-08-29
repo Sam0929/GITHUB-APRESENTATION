@@ -1,6 +1,7 @@
 # <h1 align="center"> GITHUB-APRESENTATION </h1>
-
+<div align-"center">
    ![GitHub](https://user-images.githubusercontent.com/112004721/187289293-6cae56e6-3a4d-4b2a-94c6-79bbc6241e72.jpg)
+</div>
    <p align="center">
 <a href="https://github.com/Sam0929/GITHUB-APRESENTATION/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Sam0929/GITHUB-APRESENTATION"></a>
   </p>

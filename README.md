@@ -19,7 +19,7 @@
 
 ## Autores
 * Samuel Vanini.
-* Lucas.
+* Lucas Marzochi.
 * Guilherme Lopes.
 
 
